@@ -2,5 +2,5 @@ path: /kaggle/working/finetune_dataset
 train: train
 val: val
 test: test
-names: 
+names:
   0: car_plate
